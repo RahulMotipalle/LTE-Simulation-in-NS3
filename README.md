@@ -1,2 +1,2 @@
-# ltesimulation
-Simulation of a full-fledged LTE network in using the network simulator, NS3
+# LTE Simulation
+Simulation of a full-fledged LTE network using the network simulator, NS3
